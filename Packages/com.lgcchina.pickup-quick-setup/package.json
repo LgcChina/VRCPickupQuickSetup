@@ -1,0 +1,11 @@
+{
+  "name": "com.lgcchina.pickup-quick-setup",
+  "displayName": "VRCPickup Quick Setup",
+  "version": "1.0.0",
+  "description": "A quick setup tool for VRChat Pickup objects",
+  "author": {
+    "name": "LgcChina"
+  },
+  "unity": "2022.3",
+  "vpmDependencies": { }
+}
