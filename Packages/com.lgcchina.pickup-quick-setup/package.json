@@ -8,7 +8,9 @@
     "name": "LgcChina",
     "url": "https://github.com/LgcChina"
   },
-  "vpmDependencies": {},
+  "vpmDependencies": {
+"com.vrchat.worlds": "3.1.x"
+  },
   "keywords": [ "VRChat", "Pickup", "工具", "Unity" ],
   "samples": [
     {
