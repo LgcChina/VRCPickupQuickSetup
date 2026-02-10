@@ -1,11 +1,20 @@
 {
   "name": "com.lgcchina.pickup-quick-setup",
-  "displayName": "VRCPickup Quick Setup",
+  "displayName": "VRCPickup 一键快速设置",
   "version": "1.0.0",
-  "description": "A quick setup tool for VRChat Pickup objects",
-  "author": {
-    "name": "LgcChina"
-  },
   "unity": "2022.3",
-  "vpmDependencies": { }
+  "description": "提供右键完成 Pickup 组件的添加",
+  "author": {
+    "name": "LgcChina",
+    "url": "https://github.com/LgcChina"
+  },
+  "vpmDependencies": {},
+  "keywords": [ "VRChat", "Pickup", "工具", "Unity" ],
+  "samples": [
+    {
+      "displayName": "示例场景与预设",
+      "description": "未包含示例场景与预设",
+      "path": "Samples~/QuickStart"
+    }
+  ]
 }
