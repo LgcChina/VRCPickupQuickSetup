@@ -1,7 +1,7 @@
 {
   "name": "com.lgcchina.pickup-quick-setup",
   "displayName": "LGC_VRCPickup_快速添加",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "unity": "2022.3",
   "description": "提供右键完成 Pickup 组件的添加",
   "author": {
